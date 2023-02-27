@@ -75,10 +75,3 @@ gem "devise", "~> 4.9"
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
-group :production do
-
-gem 'pg', '~> 0.11'
-
-
-
-end
